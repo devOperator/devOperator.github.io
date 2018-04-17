@@ -1,0 +1,56 @@
+html {
+
+font: 50px Courier;
+color: white;
+text-align: center;
+
+
+}
+
+.even {
+  background: deepskyblue;
+  border: 0px solid black;
+  position: relative;
+    
+}
+
+
+.odd {
+  
+  background: deeppink;
+  border: 0px solid black;
+  position: relative;
+
+}
+
+.layer #box_1, #box_2{
+
+}
+
+.layer #box_3, #box_6{
+   position: relative;
+   left: 150px;
+}
+
+.layer #box_4, #box_5{
+   position: relative;
+   left: 200px;
+}
+
+.layer #box_2, #box_7{
+   position: relative;
+   left: 100px;
+}
+.layer #box_1, #box_8{
+   position: relative;
+   left: 50px;
+}
+
+
+.box{
+  /*float: center;*/
+  
+  width: 50px;
+}
+
+

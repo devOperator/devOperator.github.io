@@ -1,0 +1,149 @@
+i {
+    width:100px; 
+}
+
+body{
+
+}
+
+div p{
+    text-align: center;
+}
+div.jumbotron-fluid div {
+    top:100px;
+    left:50px;
+    color:white; 
+    position: absolute;
+    display: inline-block;
+    width: 700px;
+}
+
+/* div.jumbotron-fluid {
+    position: relative;
+} */
+
+button{
+    background:none;
+    border:none;
+    box-shadow:none;
+}
+
+img{
+    /* max-width: 20px; */
+}
+
+.glyphicon {
+    font-size: 75px;
+}
+
+ .jumbotron{
+    background: contain;
+} 
+
+
+.navbar-nav {
+    float:none;
+    margin:0 auto;
+    display: block;
+    text-align: center;
+}
+ .navbar-header {
+    /* display: inline; */
+    text-align: center;
+} 
+
+table{ 
+    border-collapse: collapse;
+    border: solid thin;
+    border-color: gray;
+
+ /* /* margin: 0px;
+ padding: 0px;
+ border-spacing: 0;  */
+}
+
+/* tr{
+    
+
+} */
+
+tbody{
+    margin: 0px;
+    padding: 0px;
+} */
+
+tfoot{
+    margin: 0;
+    padding: 0;
+    background-color: green;
+    text-align: center;
+    width: 100%;
+}
+a:hover { color: blue; TEXT-DECORATION: none; font-weight: none }
+
+
+.navbar-nav > li   {
+    display: inline-block;
+    float: none;
+}
+
+.gap-bottom{
+    margin-bottom: 20px;
+}
+
+blockquote {
+    border-left: none;
+}
+
+
+#signup .col-lg-4{
+    padding-right: 10px;
+    padding-left: 10px;
+    margin-left: 0px;
+    margin-right: 0px;
+    padding-bottom: 75px;
+}
+
+th div{
+    font-size: 85px;
+    font: white;
+    text-align: center;
+    align-content: center;
+}
+
+th div span{
+    font-size: 50px;
+    vertical-align: text-top;
+   
+    font: white;
+
+    align-content: center;
+}
+
+th h2{
+    font-size: 30px;
+    font: white;
+    text-align: center;
+    align-content: center;
+}
+
+/* .carousel-caption {
+    align-items: center;
+} */
+
+/* h1.carousel-caption {
+    text-align: left;
+    left: 0;
+
+}
+
+p.carousel-caption {
+    text-align: left;
+    left: 0;  
+}  */
+
+
+
+
+
+/* need to overlay image with text using css, not linked atm */

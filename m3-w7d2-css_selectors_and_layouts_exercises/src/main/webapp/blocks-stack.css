@@ -1,0 +1,42 @@
+html {
+
+font: 80px Courier;
+color: white;
+text-align: center;
+
+
+}
+
+.even {
+  background: deepskyblue;
+  border: 1px solid black;
+  position: relative;
+    
+}
+
+
+.odd {
+  
+  background: deeppink;
+  border: 1px solid black;
+  position: relative;
+
+}
+
+.layer #box_1, #box_2{
+
+}
+
+.layer #box_3, #box_4, #box_5{
+   
+}
+
+.box{
+  /*float: center;*/
+  
+  width: 120px;
+  height: 120px;  
+  
+}
+
+

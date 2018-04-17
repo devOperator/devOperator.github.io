@@ -1,0 +1,26 @@
+html {
+
+font: 96px Courier;
+color: white;
+text-align: center;
+line-height: 100px 
+}
+
+.even {
+  background: deepskyblue;
+  width: 100px;
+  height: 100px;
+  
+}
+.odd {
+  background: deeppink;
+  width: 100px;
+  height: 100px;
+  
+}
+
+.box{
+  float: left;
+
+}
+
